@@ -1,0 +1,12 @@
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/persistence/PersistenceEntity.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/persistence/PersistenceUser.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/models/User.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/controller/ReportController.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/persistence/PersistenceLocalShow.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/persistence/PersistenceShow.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/persistence/PersistenceUtils.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/persistence/PersistenceTicketRequest.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/models/LocalShow.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/models/Show.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/models/TicketRequest.java
+/home/everton/desenv/projects/show-beneficente/src/main/java/br/edu/utfpr/controller/InsertController.java
